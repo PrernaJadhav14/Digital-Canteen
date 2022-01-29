@@ -1,2 +1,2 @@
-# Digital-Canteen
+# Digital-Canteen(Java Realworld project)
 Pillai’s college known for its incredible campus, and also a wonderful canteen serving delicious food. But one can see that the canteen area often gets crowded near the canteen counter and cause a little mess. One of the thing which could possibly reduce the crowd is by converting the physical process of ordering into digital one. The project is a prototype of digital version of Canteen if it ever comes to action.  
